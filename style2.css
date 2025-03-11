@@ -1,0 +1,24 @@
+
+:root {
+--bulma-link-h: 313deg;
+--bulma-link-s: 72%;
+}
+
+
+
+body {
+    background-color: #0a192f;
+    color: white;
+}
+.hero {
+    background: url('fondo-marino.jpg') no-repeat center center/cover;
+}
+.btn-custom {
+    background-color: #1e90ff;
+    color: white;
+    font-weight: bold;
+}
+.btn-custom:hover {
+    background-color: #0a75c2;
+}
+
